@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rella-raffick
-- 👀 I’m interested in Front End Development & UI/UX Design.
-- 🌱 I’m currently learning JavaScript.
+- 👋 Hi, I’m Rella Raffick
+- 👀 Feel Free to use my code 
 - 📫 Visit my portfolio in profile and get to all of my social handles.
 
 <!---
