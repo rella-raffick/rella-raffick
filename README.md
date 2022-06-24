@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rella Raffick
 - 👀 Feel Free to use my code 
+- 🖌 Part Artist Part Developer
 - 📫 Visit my portfolio in profile and get to all of my social handles.
 
 <!---
